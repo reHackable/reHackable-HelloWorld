@@ -4,3 +4,4 @@ This is actually a very first version of 'reHackable-launcher', which has the ob
 Built with QtCreator. I followed [this guide for the RPi](http://www.jumpnowtek.com/rpi/Qt-Creator-Setup-for-RPi-cross-development.html) to setup the [toolchain offered by reMarkable](https://remarkable.engineering/deploy/sdk/) in Qt Creator. 
 
 
+Also checkout [dragly/hello-remarkable](https://github.com/dragly/hello-remarkable), another demo from a more experienced developer
